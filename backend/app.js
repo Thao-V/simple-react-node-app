@@ -2,7 +2,7 @@ const express = require('express');
 const os = require('os');
 
 const app = express();
-const PORT = 8080;
+const PORT = 5000;
 
 // Function to get the IPv4 address of the server
 function getIPv4Address() {
